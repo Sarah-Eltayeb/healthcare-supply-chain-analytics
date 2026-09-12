@@ -1,0 +1,17 @@
+﻿Practice_ID,Metric_ID,Mapping_Rationale,Practice_Name,SCOR_ID,Metric
+BP.068,RL.2.5,Supplier performance reporting supports monitoring of full supplier deliveries,Supplier Performance Reporting,RL.2.5,Percentage of Orders Delivered In Full from the Supplier
+BP.068,RL.2.6,Supplier performance reporting supports monitoring of delivery timeliness,Supplier Performance Reporting,RL.2.6,Delivery Performance to Original Supplier Commit Date
+BP.068,RL.3.14,Supplier performance reporting can monitor quantity accuracy,Supplier Performance Reporting,RL.3.14,Delivery Quantity Accuracy from the Supplier
+BP.068,RL.3.22,Supplier reporting can monitor damage-free delivery,Supplier Performance Reporting,RL.3.22,Percentage of Supplier Orders or Lines Received Damage Free
+BP.097,RL.2.5,Supplier appraisal can consider supplier fulfillment performance,Supplier Appraisal,RL.2.5,Percentage of Orders Delivered In Full from the Supplier
+BP.097,RL.2.6,Supplier appraisal can consider delivery performance,Supplier Appraisal,RL.2.6,Delivery Performance to Original Supplier Commit Date
+BP.097,RL.3.14,Supplier appraisal can consider quantity accuracy,Supplier Appraisal,RL.3.14,Delivery Quantity Accuracy from the Supplier
+BP.245,RL.3.24,Supplier certification is relevant to defect-free supplier delivery,Supplier Certification Program,RL.3.24,Supplier Orders Delivered Defect Free Conformance
+BP.247,RL.3.24,Supplier audit can support defect-free supplier performance,Multi-Tier Supplier Audit,RL.3.24,Supplier Orders Delivered Defect Free Conformance
+BP.249,RL.2.5,Approved vendor management can support fulfillment monitoring,Approved Vendor List,RL.2.5,Percentage of Orders Delivered In Full from the Supplier
+BP.249,RL.2.6,Approved vendor management can support delivery monitoring,Approved Vendor List,RL.2.6,Delivery Performance to Original Supplier Commit Date
+BP.250,AM.2.3,Supplier credit assessment relates to financial exposure,Supplier Credit Check,AM.2.3,Days Payable Outstanding
+BP.145,RS.2.2,Supplier collaboration can affect source cycle responsiveness,Supplier Collaboration,RS.2.2,Source Cycle Time
+BP.162,RS.2.2,Long-term supplier relationships can support sourcing responsiveness,Long-Term Supplier Agreement or Partnership,RS.2.2,Source Cycle Time
+BP.276,AG.3.6,Dual sourcing can support additional source volume,Dual Sourcing,AG.3.6,Additional Source Volumes Obtained in 30 Days
+BP.279,AG.3.6,Supplier segmentation can support differentiated sourcing strategies,Supplier Segmentation,AG.3.6,Additional Source Volumes Obtained in 30 Days

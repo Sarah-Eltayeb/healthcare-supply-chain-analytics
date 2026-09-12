@@ -1,0 +1,65 @@
+﻿SCOR_Process_ID,SCOR_Process,Practice_ID,Practice_Name,Practice_URL,Healthcare_Relevance
+F2.1,Receive B2B Product from Source or Transform,BP.009,Kanban,https://scor.ascm.org/practices/best practices by category/BP.009,False
+F2.1,Receive B2B Product from Source or Transform,BP.089,Perfect Pick Put-Away,https://scor.ascm.org/practices/best practices by category/BP.089,True
+F2.2,Receive Order Signal,BP.012,Lot Tracking,https://scor.ascm.org/practices/best practices by category/BP.012,True
+F2.2,Receive Order Signal,BP.101,Purchasing and Procurement Strategy,https://scor.ascm.org/practices/best practices by category/BP.101,False
+F2.2,Receive Order Signal,BP.202,Quick Response (QR) Code,https://scor.ascm.org/practices/best practices by category/BP.202,False
+F2.3,Pick Product,BP.009,Kanban,https://scor.ascm.org/practices/best practices by category/BP.009,False
+F2.3,Pick Product,BP.012,Lot Tracking,https://scor.ascm.org/practices/best practices by category/BP.012,True
+F2.3,Pick Product,BP.089,Perfect Pick Put-Away,https://scor.ascm.org/practices/best practices by category/BP.089,True
+F2.3,Pick Product,BP.189,Augmented Reality,https://scor.ascm.org/practices/best practices by category/BP.189,False
+F2.3,Pick Product,BP.198,Real-Time Location System,https://scor.ascm.org/practices/best practices by category/BP.198,True
+F2.3,Pick Product,BP.199,Autonomous Delivery,https://scor.ascm.org/practices/best practices by category/BP.199,False
+F2.3,Pick Product,BP.200,Stocktaking by Drones,https://scor.ascm.org/practices/best practices by category/BP.200,False
+F2.3,Pick Product,BP.201,Dynamic Inventory Management,https://scor.ascm.org/practices/best practices by category/BP.201,True
+F2.3,Pick Product,BP.202,Quick Response (QR) Code,https://scor.ascm.org/practices/best practices by category/BP.202,False
+F2.3,Pick Product,BP.203,Mobile Distribution Center,https://scor.ascm.org/practices/best practices by category/BP.203,False
+F2.3,Pick Product,BP.206,Virtual Reality,https://scor.ascm.org/practices/best practices by category/BP.206,False
+F2.4,Pack and/or Kit Product,BP.012,Lot Tracking,https://scor.ascm.org/practices/best practices by category/BP.012,True
+F2.4,Pack and/or Kit Product,BP.189,Augmented Reality,https://scor.ascm.org/practices/best practices by category/BP.189,False
+F2.4,Pack and/or Kit Product,BP.198,Real-Time Location System,https://scor.ascm.org/practices/best practices by category/BP.198,True
+F2.4,Pack and/or Kit Product,BP.199,Autonomous Delivery,https://scor.ascm.org/practices/best practices by category/BP.199,False
+F2.4,Pack and/or Kit Product,BP.201,Dynamic Inventory Management,https://scor.ascm.org/practices/best practices by category/BP.201,True
+F2.4,Pack and/or Kit Product,BP.203,Mobile Distribution Center,https://scor.ascm.org/practices/best practices by category/BP.203,False
+F2.5,Stage Product,BP.012,Lot Tracking,https://scor.ascm.org/practices/best practices by category/BP.012,True
+F2.5,Stage Product,BP.030,Inventory Record Accuracy,https://scor.ascm.org/practices/best practices by category/BP.030,True
+F2.5,Stage Product,BP.146,Cross-Docking,https://scor.ascm.org/practices/best practices by category/BP.146,True
+F2.5,Stage Product,BP.121,Digital Packaging on Demand,https://scor.ascm.org/practices/best practices by category/BP.121,False
+F2.6,Schedule Transportation,BP.055,Freight Carrier Delivery Performance Evaluation,https://scor.ascm.org/practices/best practices by category/BP.055,True
+F2.6,Schedule Transportation,BP.071,Modal Optimization,https://scor.ascm.org/practices/best practices by category/BP.071,False
+F2.6,Schedule Transportation,BP.115,Transportation Management System (TMS),https://scor.ascm.org/practices/best practices by category/BP.115,True
+F2.6,Schedule Transportation,BP.199,Autonomous Delivery,https://scor.ascm.org/practices/best practices by category/BP.199,False
+F2.6,Schedule Transportation,BP.208,Crowdsourced Delivery,https://scor.ascm.org/practices/best practices by category/BP.208,False
+F2.6,Schedule Transportation,BP.209,Telematics,https://scor.ascm.org/practices/best practices by category/BP.209,False
+F2.6,Schedule Transportation,BP.211,Fleet Management,https://scor.ascm.org/practices/best practices by category/BP.211,True
+F2.7,Notify and Confirm Dock Appointment,BP.055,Freight Carrier Delivery Performance Evaluation,https://scor.ascm.org/practices/best practices by category/BP.055,True
+F2.7,Notify and Confirm Dock Appointment,BP.115,Transportation Management System (TMS),https://scor.ascm.org/practices/best practices by category/BP.115,True
+F2.7,Notify and Confirm Dock Appointment,BP.116,Expedited Logistics,https://scor.ascm.org/practices/best practices by category/BP.116,True
+F2.8,Load Vehicle and Generate Shipping Document,BP.012,Lot Tracking,https://scor.ascm.org/practices/best practices by category/BP.012,True
+F2.8,Load Vehicle and Generate Shipping Document,BP.115,Transportation Management System (TMS),https://scor.ascm.org/practices/best practices by category/BP.115,True
+F2.8,Load Vehicle and Generate Shipping Document,BP.116,Expedited Logistics,https://scor.ascm.org/practices/best practices by category/BP.116,True
+F2.8,Load Vehicle and Generate Shipping Document,BP.129,Return Policy Included with Shipping Document,https://scor.ascm.org/practices/best practices by category/BP.129,False
+F2.8,Load Vehicle and Generate Shipping Document,BP.199,Autonomous Delivery,https://scor.ascm.org/practices/best practices by category/BP.199,False
+F2.8,Load Vehicle and Generate Shipping Document,BP.201,Dynamic Inventory Management,https://scor.ascm.org/practices/best practices by category/BP.201,True
+F2.8,Load Vehicle and Generate Shipping Document,BP.211,Fleet Management,https://scor.ascm.org/practices/best practices by category/BP.211,True
+F2.10,Ship Product,BP.012,Lot Tracking,https://scor.ascm.org/practices/best practices by category/BP.012,True
+F2.10,Ship Product,BP.115,Transportation Management System (TMS),https://scor.ascm.org/practices/best practices by category/BP.115,True
+F2.10,Ship Product,BP.199,Autonomous Delivery,https://scor.ascm.org/practices/best practices by category/BP.199,False
+F2.10,Ship Product,BP.201,Dynamic Inventory Management,https://scor.ascm.org/practices/best practices by category/BP.201,True
+F2.10,Ship Product,BP.208,Crowd Sourced Delivery,https://scor.ascm.org/practices/best practices by category/BP.208,False
+F2.10,Ship Product,BP.211,Fleet Management,https://scor.ascm.org/practices/best practices by category/BP.211,True
+F2.10,Ship Product,BP.300,Traceability,https://scor.ascm.org/practices/best practices by category/BP.300,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.055,Freight Carrier Delivery Performance Evaluation,https://scor.ascm.org/practices/best practices by category/BP.055,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.115,Transportation Management System (TMS),https://scor.ascm.org/practices/best practices by category/BP.115,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.116,Expedited Logistics,https://scor.ascm.org/practices/best practices by category/BP.116,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.148,3-Way Delivery Verification,https://scor.ascm.org/practices/best practices by category/BP.148,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.151,Real-Time Package Tracking,https://scor.ascm.org/practices/best practices by category/BP.151,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.152,Automated Data Capture (ADC),https://scor.ascm.org/practices/best practices by category/BP.152,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.159,Electronic Data Interchange (EDI),https://scor.ascm.org/practices/best practices by category/BP.159,False
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.166,Document Management System,https://scor.ascm.org/practices/best practices by category/BP.166,False
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.199,Autonomous Delivery,https://scor.ascm.org/practices/best practices by category/BP.199,False
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.201,Dynamic Inventory Management,https://scor.ascm.org/practices/best practices by category/BP.201,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.202,Quick Response (QR) Code,https://scor.ascm.org/practices/best practices by category/BP.202,False
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.209,Telematics,https://scor.ascm.org/practices/best practices by category/BP.209,False
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.216,Service Level Management,https://scor.ascm.org/practices/best practices by category/BP.216,True
+F2.12,Obtain Proof of Delivery or Customer Acceptance,BP.300,Traceability,https://scor.ascm.org/practices/best practices by category/BP.300,True

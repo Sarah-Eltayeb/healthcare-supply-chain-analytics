@@ -1,0 +1,28 @@
+﻿SCOR_Process_ID,SCOR_Process,SCOR_ID,Metric,Metric_URL
+S1.6,Prequalify Suppliers,RL.3.34,Percentage of Suppliers Meeting Environmental Metrics and Criteria,/performance/reliability/RL.3.34
+S1.6,Prequalify Suppliers,RL.3.35,Percentage of Suppliers with ISO 14001 Certification,/performance/reliability/RL.3.35
+S1.6,Prequalify Suppliers,RS.2.2,Source Cycle Time,/performance/responsiveness/RS.2.2
+S1.6,Prequalify Suppliers,AG.3.6,Additional Source Volumes Obtained in 30 Days,/performance/agility/AG.3.6
+S1.6,Prequalify Suppliers,SC.1.2,Wage Level,/performance/social/SC.1.2
+S1.6,Prequalify Suppliers,SC.1.3,Training,/performance/social/SC.1.3
+S1.6,Prequalify Suppliers,SC.3.1,Employment,/performance/social/SC.3.1
+S1.6,Prequalify Suppliers,SC.3.2,New employee Hires,/performance/social/SC.3.2
+S1.6,Prequalify Suppliers,SC.3.3,Employee Turnover,/performance/social/SC.3.3
+S1.6,Prequalify Suppliers,SC.3.4,Anti-corruption,/performance/social/SC.3.4
+S1.6,Prequalify Suppliers,SC.3.5,Occupational Safety & Health,/performance/social/SC.3.5
+S1.6,Prequalify Suppliers,SC.3.6,Work-related injuries,/performance/social/SC.3.6
+S1.6,Prequalify Suppliers,SC.3.7,Work-related ill health,/performance/social/SC.3.7
+S1.6,Prequalify Suppliers,SC.3.8,Pay equality,/performance/social/SC.3.8
+S1.6,Prequalify Suppliers,SC.3.9,Parental leave,/performance/social/SC.3.9
+S1.6,Prequalify Suppliers,SC.3.10,Child labor,/performance/social/SC.3.10
+S1.6,Prequalify Suppliers,SC.3.11,Career and Development,/performance/social/SC.3.11
+S1.7,Determine Level of Collaboration Arrangement,AG.3.6,Additional Source Volumes Obtained in 30 Days,/performance/agility/AG.3.6
+S1.9,Analyze Offers and Select Suppliers,RS.2.2,Source Cycle Time,/performance/responsiveness/RS.2.2
+S1.9,Analyze Offers and Select Suppliers,RS.3.10,Select Supplier and Negotiate Cycle Time,/performance/responsiveness/RS.3.10
+S1.9,Analyze Offers and Select Suppliers,AG.3.6,Additional Source Volumes Obtained in 30 Days,/performance/agility/AG.3.6
+S1.10,Negotiate and Award Contract,RS.2.2,Source Cycle Time,/performance/responsiveness/RS.2.2
+S1.10,Negotiate and Award Contract,RS.3.10,Select Supplier and Negotiate Cycle Time,/performance/responsiveness/RS.3.10
+S1.10,Negotiate and Award Contract,RS.3.91,Manage Supplier Agreements Cycle Time,/performance/responsiveness/RS.3.91
+S1.10,Negotiate and Award Contract,RS.3.95,Negotiate and Receive Contract Cycle Time,/performance/responsiveness/RS.3.95
+S1.10,Negotiate and Award Contract,AG.3.6,Additional Source Volumes Obtained in 30 Days,/performance/agility/AG.3.6
+S1.10,Negotiate and Award Contract,AM.2.3,Days Payable Outstanding,/performance/assets/AM.2.3

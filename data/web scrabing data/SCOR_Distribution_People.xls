@@ -1,0 +1,54 @@
+﻿SCOR_Process_ID,SCOR_Process,Skill_ID,Skill,Skill_URL
+F2.1,Receive B2B Product from Source or Transform,HS.0075,Material-Handling Equipment Usage,https://scor.ascm.org/people/skills/HS.0075
+F2.1,Receive B2B Product from Source or Transform,HS.0104,Progress & Performance Reporting,https://scor.ascm.org/people/skills/HS.0104
+F2.2,Receive Order Signal,HS.0007,Availability Management,https://scor.ascm.org/people/skills/HS.0007
+F2.2,Receive Order Signal,HS.0013,Blanket Purchase Order Process,https://scor.ascm.org/people/skills/HS.0013
+F2.2,Receive Order Signal,HS.0016,Capacity Planning and Management,https://scor.ascm.org/people/skills/HS.0016
+F2.2,Receive Order Signal,HS.0018,Carrier Selection,https://scor.ascm.org/people/skills/HS.0018
+F2.2,Receive Order Signal,HS.0026,Credit and Collection Management,https://scor.ascm.org/people/skills/HS.0026
+F2.2,Receive Order Signal,HS.0028,Customer Order Management,https://scor.ascm.org/people/skills/HS.0028
+F2.2,Receive Order Signal,HS.0029,Customer Relationship Management (CRM),https://scor.ascm.org/people/skills/HS.0029
+F2.2,Receive Order Signal,HS.0036,Delivery Scheduling,https://scor.ascm.org/people/skills/HS.0036
+F2.2,Receive Order Signal,HS.0037,Demand Management,https://scor.ascm.org/people/skills/HS.0037
+F2.2,Receive Order Signal,HS.0052,Installation Scheduling,https://scor.ascm.org/people/skills/HS.0052
+F2.2,Receive Order Signal,HS.0058,Inventory Management,https://scor.ascm.org/people/skills/HS.0058
+F2.2,Receive Order Signal,HS.0064,Lead-Time Validation,https://scor.ascm.org/people/skills/HS.0064
+F2.2,Receive Order Signal,HS.0092,Pricing Management,https://scor.ascm.org/people/skills/HS.0092
+F2.2,Receive Order Signal,HS.0095,Product and Configuration Validation,https://scor.ascm.org/people/skills/HS.0095
+F2.3,Pick Product,HS.0009,Bar Code Handling and Radio Frequency Identification (RFID),https://scor.ascm.org/people/skills/HS.0009
+F2.3,Pick Product,HS.0058,Inventory Management,https://scor.ascm.org/people/skills/HS.0058
+F2.3,Pick Product,HS.0075,Material-Handling Equipment Usage,https://scor.ascm.org/people/skills/HS.0075
+F2.3,Pick Product,HS.0090,Picking Process and Order Batching,https://scor.ascm.org/people/skills/HS.0090
+F2.3,Pick Product,HS.0104,Progress & Performance Reporting,https://scor.ascm.org/people/skills/HS.0104
+F2.3,Pick Product,HS.0161,Wave or Batch Picking,https://scor.ascm.org/people/skills/HS.0161
+F2.3,Pick Product,HS.0192,Warehouse Management Systems (WMS),https://scor.ascm.org/people/skills/HS.0192
+F2.4,Pack and/or Kit Product,HS.0009,Bar Code Handling and Radio Frequency Identification (RFID),https://scor.ascm.org/people/skills/HS.0009
+F2.4,Pack and/or Kit Product,HS.0062,Kitting and Packing,https://scor.ascm.org/people/skills/HS.0062
+F2.4,Pack and/or Kit Product,HS.0075,Material-Handling Equipment Usage,https://scor.ascm.org/people/skills/HS.0075
+F2.4,Pack and/or Kit Product,HS.0086,Packaging,https://scor.ascm.org/people/skills/HS.0086
+F2.4,Pack and/or Kit Product,HS.0104,Progress & Performance Reporting,https://scor.ascm.org/people/skills/HS.0104
+F2.4,Pack and/or Kit Product,HS.0180,Material Classification,https://scor.ascm.org/people/skills/HS.0180
+F2.5,Stage Product,HS.0046,Enterprise Resources Planning (ERP) Systems,https://scor.ascm.org/people/skills/HS.0046
+F2.5,Stage Product,HS.0058,Inventory Management,https://scor.ascm.org/people/skills/HS.0058
+F2.5,Stage Product,HS.0065,Lean Manufacturing,https://scor.ascm.org/people/skills/HS.0065
+F2.5,Stage Product,HS.0069,Logistics Management,https://scor.ascm.org/people/skills/HS.0069
+F2.6,Schedule Transportation,HS.0011,Basic Transportation Management,https://scor.ascm.org/people/skills/HS.0011
+F2.6,Schedule Transportation,HS.0018,Carrier Selection,https://scor.ascm.org/people/skills/HS.0018
+F2.6,Schedule Transportation,HS.0036,Delivery Scheduling,https://scor.ascm.org/people/skills/HS.0036
+F2.7,Notify and Confirm Dock Appointment,HS.0011,Basic Transportation Management,https://scor.ascm.org/people/skills/HS.0011
+F2.7,Notify and Confirm Dock Appointment,HS.0052,Installation Scheduling,https://scor.ascm.org/people/skills/HS.0052
+F2.8,Load Vehicle and Generate Shipping Document,HS.0011,Basic Transportation Management,https://scor.ascm.org/people/skills/HS.0011
+F2.8,Load Vehicle and Generate Shipping Document,HS.0028,Customer Order Management,https://scor.ascm.org/people/skills/HS.0028
+F2.8,Load Vehicle and Generate Shipping Document,HS.0069,Logistics Management,https://scor.ascm.org/people/skills/HS.0069
+F2.8,Load Vehicle and Generate Shipping Document,HS.0075,Material-Handling Equipment Usage,https://scor.ascm.org/people/skills/HS.0075
+F2.8,Load Vehicle and Generate Shipping Document,HS.0180,Material Classification,https://scor.ascm.org/people/skills/HS.0180
+F2.10,Ship Product,HS.0011,Basic Transportation Management,https://scor.ascm.org/people/skills/HS.0011
+F2.10,Ship Product,HS.0039,Driving Certification,https://scor.ascm.org/people/skills/HS.0039
+F2.10,Ship Product,HS.0050,Import and Export Regulations,https://scor.ascm.org/people/skills/HS.0050
+F2.10,Ship Product,HS.0192,Warehouse Management Systems (WMS),https://scor.ascm.org/people/skills/HS.0192
+F2.12,Obtain Proof of Delivery or Customer Acceptance,HS.0009,Bar Code Handling and Radio Frequency Identification (RFID),https://scor.ascm.org/people/skills/HS.0009
+F2.12,Obtain Proof of Delivery or Customer Acceptance,HS.0011,Basic Transportation Management,https://scor.ascm.org/people/skills/HS.0011
+F2.12,Obtain Proof of Delivery or Customer Acceptance,HS.0028,Customer Order Management,https://scor.ascm.org/people/skills/HS.0028
+F2.12,Obtain Proof of Delivery or Customer Acceptance,HS.0029,Customer Relationship Management (CRM),https://scor.ascm.org/people/skills/HS.0029
+F2.12,Obtain Proof of Delivery or Customer Acceptance,HS.0108,Quality Management,https://scor.ascm.org/people/skills/HS.0108
+F2.12,Obtain Proof of Delivery or Customer Acceptance,HS.0122,Reverse Logistics,https://scor.ascm.org/people/skills/HS.0122
