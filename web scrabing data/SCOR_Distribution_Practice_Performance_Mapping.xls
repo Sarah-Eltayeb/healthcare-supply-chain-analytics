@@ -1,0 +1,22 @@
+﻿Practice_ID,Metric_ID,Mapping_Rationale,Practice_Name,SCOR_ID,Metric
+BP.012,RL.3.1,Lot tracking supports product-level delivery accuracy and traceability,Lot Tracking,RL.3.1,Delivery Item Accuracy to the Customer
+BP.012,RL.3.2,Lot tracking supports verification of delivered quantities,Lot Tracking,RL.3.2,Delivery Quantity Accuracy to the Customer
+BP.012,RL.3.10,Lot tracking supports traceability of damaged deliveries,Lot Tracking,RL.3.10,Percentage of Customer Orders or Lines Received Damage Free
+BP.030,RL.3.1,Inventory record accuracy supports accurate picking and delivery,Inventory Record Accuracy,RL.3.1,Delivery Item Accuracy to the Customer
+BP.030,RL.3.2,Inventory accuracy supports correct delivery quantities,Inventory Record Accuracy,RL.3.2,Delivery Quantity Accuracy to the Customer
+BP.055,RL.2.2,Carrier performance evaluation supports on-time delivery,Freight Carrier Delivery Performance Evaluation,RL.2.2,Delivery Performance to Original Customer Commit Date
+BP.055,RL.3.3,Carrier evaluation supports customer commit-date achievement,Freight Carrier Delivery Performance Evaluation,RL.3.3,Customer Commit Date Achievement
+BP.071,RL.2.2,Transport mode optimization can improve delivery timeliness,Modal Optimization,RL.2.2,Delivery Performance to Original Customer Commit Date
+BP.115,RS.3.29,Transportation management systems support shipment cycle-time management,Transportation Management System (TMS),RS.3.29,Ship Product Cycle Time
+BP.115,RL.2.2,TMS supports delivery scheduling and on-time performance,Transportation Management System (TMS),RL.2.2,Delivery Performance to Original Customer Commit Date
+BP.116,RL.2.2,Expedited logistics can improve urgent delivery timeliness,Expedited Logistics,RL.2.2,Delivery Performance to Original Customer Commit Date
+BP.146,RS.3.18,Cross-docking can reduce staging time,Cross-Docking,RS.3.18,Stage Finished Product Cycle Time
+BP.148,RL.3.1,Three-way delivery verification supports item accuracy,3-Way Delivery Verification,RL.3.1,Delivery Item Accuracy to the Customer
+BP.148,RL.3.2,Three-way verification supports quantity accuracy,3-Way Delivery Verification,RL.3.2,Delivery Quantity Accuracy to the Customer
+BP.151,RL.2.2,Real-time package tracking supports delivery visibility and timeliness,Real-Time Package Tracking,RL.2.2,Delivery Performance to Original Customer Commit Date
+BP.152,RL.3.1,Automated data capture can reduce delivery data errors,Automated Data Capture (ADC),RL.3.1,Delivery Item Accuracy to the Customer
+BP.198,RL.3.4,Real-time location systems support location accuracy,Real-Time Location System,RL.3.4,Delivery Customer Location Accuracy
+BP.211,RL.2.2,Fleet management supports delivery scheduling and timeliness,Fleet Management,RL.2.2,Delivery Performance to Original Customer Commit Date
+BP.216,RL.2.2,Service-level management supports delivery performance against commitments,Service Level Management,RL.2.2,Delivery Performance to Original Customer Commit Date
+BP.300,RL.3.1,Traceability supports product identification and delivery accuracy,Traceability,RL.3.1,Delivery Item Accuracy to the Customer
+BP.300,RL.3.10,Traceability supports investigation of damaged deliveries,Traceability,RL.3.10,Percentage of Customer Orders or Lines Received Damage Free
